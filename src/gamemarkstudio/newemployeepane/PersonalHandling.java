@@ -26,8 +26,7 @@ import java.util.ArrayList;
 public class PersonalHandling {
     
     private static ArrayList<PersonalInfo> pi = new ArrayList();
-     static byte[] pic = {1,1,1};
-     public static boolean Load() 
+    public static boolean Load() 
      {
          if(!pi.isEmpty())
             return false;
@@ -192,8 +191,7 @@ public class PersonalHandling {
        }catch(Exception e)
        {
             throw new IllegalArgumentException(e.getMessage());
-       }
-       
+       }      
       
    }
    public static void DeleteAllData(PersonalInfo pi1)
@@ -209,7 +207,4 @@ public class PersonalHandling {
        }
        
    }
-   
-     
-     
-}
+ }
