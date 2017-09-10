@@ -25,5 +25,3 @@ You must have Java JDK 1.8 or microsoft MySQL connector for database.
 You can Donate Some Ether to the Developer. 
                 
     Ethereum Address : 0x39886D0BFccc74D8CCb21c44534a41eC626620b3
-# HR-Management-System-in-Java-Swing-Framework-using-MySql-Database
-I've Develop this HR Management System in Java swing framework for learning purpose using MySql Database. 
